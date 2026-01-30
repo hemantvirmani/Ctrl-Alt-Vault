@@ -20,6 +20,14 @@ Hemant Virmani - Find more about me [here](https://h.virmani.cc)
 
 #### Informative & therefore, Entertaining
 * [CPUs, GPUs & TPUs - How they work?](https://blog.bytebytego.com/p/how-googles-tensor-processing-unit)
+    - [More Details on this](https://blog.bytebytego.com/p/why-ai-needs-gpus-and-tpus-the-hardware)
+* Stanford CS229: Machine Learning - Andrew Ng 
+    - [Youtube Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) 
+    - [Course Material](https://see.stanford.edu/course/cs229)
+* [@TwoMinutePapers Youtube Channel](https://www.youtube.com/@TwoMinutePapers)
 
-###### Credits & Inspiration
-Concept is inspired from [this](https://github.com/charlax/professional-programming) github but links are my own - duplicacy is by chance and not an attempt to copy 
+#### Papers You Shouldn't miss 
+* [Attention is All you Need](https://arxiv.org/abs/1706.03762)
+
+###### Credits
+The concept and structure of this collection is inspired by [this](https://github.com/charlax/professional-programming) repository. All linked resources here are my own curated selections - any similarities are coincidental.

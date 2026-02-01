@@ -13,7 +13,7 @@ Hemant Virmani - Find more about me [here](https://h.virmani.cc)
 * Hugging Face - [Agents Course](https://huggingface.co/learn/agents-course)
 * Hugging Face - [LLM Course](https://huggingface.co/learn/llm-course) - previously, NLP Course
 * Coursera - [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms/)
-* Google Machine Learning Crash Course (https://developers.google.com/machine-learning/crash-course/prereqs-and-prework) - I like some of the links to its pre-requisites like pandas, numpy. I have not taken them personally nor I have received any in-person feedback, so not adding their links yet.
+* Google Machine Learning Crash Course (https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
 
 #### Humorous Breaks
 * [Work Chronicles](https://x.com/_workchronicles)
@@ -36,3 +36,5 @@ Hemant Virmani - Find more about me [here](https://h.virmani.cc)
 
 ###### Credits
 The concept and structure of this collection is inspired by [this](https://github.com/charlax/professional-programming) repository. All linked resources here are my own curated selections - any similarities are coincidental.
+
+I have not taken all the above courses personally. so, please check for additional feedback.
